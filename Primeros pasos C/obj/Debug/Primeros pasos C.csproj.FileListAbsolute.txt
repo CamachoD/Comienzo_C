@@ -1,0 +1,7 @@
+C:\Users\camacho\source\repos\Primeros pasos C\Primeros pasos C\bin\Debug\Primeros pasos C.exe.config
+C:\Users\camacho\source\repos\Primeros pasos C\Primeros pasos C\bin\Debug\Primeros pasos C.exe
+C:\Users\camacho\source\repos\Primeros pasos C\Primeros pasos C\bin\Debug\Primeros pasos C.pdb
+C:\Users\camacho\source\repos\Primeros pasos C\Primeros pasos C\obj\Debug\Primeros pasos C.csprojAssemblyReference.cache
+C:\Users\camacho\source\repos\Primeros pasos C\Primeros pasos C\obj\Debug\Primeros pasos C.csproj.CoreCompileInputs.cache
+C:\Users\camacho\source\repos\Primeros pasos C\Primeros pasos C\obj\Debug\Primeros pasos C.exe
+C:\Users\camacho\source\repos\Primeros pasos C\Primeros pasos C\obj\Debug\Primeros pasos C.pdb
