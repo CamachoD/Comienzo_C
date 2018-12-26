@@ -23,7 +23,9 @@ namespace Primeros_pasos_C
             Decimal x = 0.0m;
             float f = 0.0f;
             double d = 0.0D;
-
+            String cadena = "Hola mundo";
+            bool bandera = false;
+            
 
         }
     }
