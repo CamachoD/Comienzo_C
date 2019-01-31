@@ -57,7 +57,7 @@ namespace Primeros_pasos_C
             Console.ReadKey();
 
             int resultado = 45 % 2;
-            Console.WriteLine("La  variable resltado contiene " + resultado);
+            Console.WriteLine("La  variable resltado contiene:  " + resultado);
             Console.ReadKey();
 
             String entrada = "";
@@ -69,9 +69,111 @@ namespace Primeros_pasos_C
 
             //Setencias de Condiciones
             // IF = si
+            //IF - Else
 
+            if (10 < 5)
+            {
+
+                Console.WriteLine("la sentencia es verdadera");
+            }
+            else
+                Console.WriteLine("la sentencia es falsa");
+
+
+            Console.ReadKey();
+
+            //Operadores logicos
+            // Y = && 
+            // O = ||
+            // NOT = ! 
+
+            int a = 0;
+            int b = 5;
+            int X = 10;
+            int y = 10;
+
+            if (x == 10 || y == 10)
+            {
+
+                Console.WriteLine("X  y Y son iguales");
+
+            }
+
+            Console.ReadKey();
+
+            // switch y case
+
+            String valors = "a";
+            
+            switch (valors) {
+
+                case "a":
+                    Console.Write("Entro en el case 1");
+                    break;
+                case "b":
+                    Console.Write("Entro en el case 2");
+                    break;
+                case "c":
+                    Console.Write("Entro en el case 3");
+                    break;
+                default:
+                    Console.Write("Entro en el case default");
+                    break;
+            }
+            Console.ReadKey();
+
+            // Incremento y decremento en variables
+            int numero = 0;
+            numero++;//aumenta el valor en 1
+            numero--;//disminuye el numero de 1 a 1
+
+
+            // while 
+
+            while(numero<10)
+            {
+                Console.WriteLine("Hola Mundo");
+                numero++;
+            }
+
+
+            Console.ReadKey();
+
+            //DO-While 
+            int num = 0;
+            do {
+
+                Console.WriteLine("hola mundo con do-While \n");
+                num++;
+            } while (num < 10);
+
+            Console.ReadKey();
+
+            //For 
+
+            for(int cont=0; cont < 10; cont++)
+            {
+                Console.WriteLine("Vueltas del for {0}", cont);
+            }
+
+            Console.ReadKey();
+
+            // Funciones 
+            /*
+             *Tipos de funciones 
+             * devuelven valores
+             * reciben valores
+             * reciben valores y devuelven valores
+             
+             */
+
+          
+        }
+        public void MostrarHola()
+        {
 
         }
+
     }
 }
 

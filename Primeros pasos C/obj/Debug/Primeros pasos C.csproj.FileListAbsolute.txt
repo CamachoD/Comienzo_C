@@ -12,3 +12,10 @@ C:\Users\camacho\Source\Repos\Comienzo_C\Primeros pasos C\obj\Debug\Primeros pas
 C:\Users\camacho\Source\Repos\Comienzo_C\Primeros pasos C\obj\Debug\Primeros pasos C.csproj.CoreCompileInputs.cache
 C:\Users\camacho\Source\Repos\Comienzo_C\Primeros pasos C\obj\Debug\Primeros pasos C.exe
 C:\Users\camacho\Source\Repos\Comienzo_C\Primeros pasos C\obj\Debug\Primeros pasos C.pdb
+C:\Users\camacho\source\repos\Comienzo_C2\Primeros pasos C\obj\Debug\Primeros pasos C.csprojAssemblyReference.cache
+C:\Users\camacho\source\repos\Comienzo_C2\Primeros pasos C\obj\Debug\Primeros pasos C.csproj.CoreCompileInputs.cache
+C:\Users\camacho\source\repos\Comienzo_C2\Primeros pasos C\obj\Debug\Primeros pasos C.exe
+C:\Users\camacho\source\repos\Comienzo_C2\Primeros pasos C\obj\Debug\Primeros pasos C.pdb
+C:\Users\camacho\source\repos\Comienzo_C2\Primeros pasos C\bin\Debug\Primeros pasos C.exe.config
+C:\Users\camacho\source\repos\Comienzo_C2\Primeros pasos C\bin\Debug\Primeros pasos C.exe
+C:\Users\camacho\source\repos\Comienzo_C2\Primeros pasos C\bin\Debug\Primeros pasos C.pdb
